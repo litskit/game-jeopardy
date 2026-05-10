@@ -1,0 +1,61 @@
+{
+  "id": "game-history",
+  "title": "World History",
+  "categories": [
+    {
+      "id": "wh-cat-1",
+      "name": "ANCIENT WORLD",
+      "clues": [
+        { "id": "wh-c1-1", "value": 200, "question": "The ancient wonder that stood at Alexandria, Egypt", "answer": "What is the Lighthouse of Alexandria?", "isUsed": false },
+        { "id": "wh-c1-2", "value": 400, "question": "The river along which most of ancient Egypt's civilization developed", "answer": "What is the Nile?", "isUsed": false },
+        { "id": "wh-c1-3", "value": 600, "question": "The philosopher who taught Alexander the Great", "answer": "Who is Aristotle?", "isUsed": false },
+        { "id": "wh-c1-4", "value": 800, "question": "The ancient writing system of Mesopotamia made up of wedge-shaped marks", "answer": "What is cuneiform?", "isUsed": false },
+        { "id": "wh-c1-5", "value": 1000, "question": "The Battle of Marathon in 490 BC saw this city-state defeat the Persians", "answer": "What is Athens?", "isUsed": false }
+      ]
+    },
+    {
+      "id": "wh-cat-2",
+      "name": "EMPIRES",
+      "clues": [
+        { "id": "wh-c2-1", "value": 200, "question": "The empire ruled by Genghis Khan", "answer": "What is the Mongol Empire?", "isUsed": false },
+        { "id": "wh-c2-2", "value": 400, "question": "Julius Caesar was assassinated on the Ides of this month", "answer": "What is March?", "isUsed": false },
+        { "id": "wh-c2-3", "value": 600, "question": "The last pharaoh of ancient Egypt, a famous Macedonian queen", "answer": "Who is Cleopatra?", "isUsed": false },
+        { "id": "wh-c2-4", "value": 800, "question": "The Ottoman Empire's capital city, formerly called Constantinople", "answer": "What is Istanbul?", "isUsed": false },
+        { "id": "wh-c2-5", "value": 1000, "question": "The Han dynasty ruled this country from 206 BC to 220 AD", "answer": "What is China?", "isUsed": false }
+      ]
+    },
+    {
+      "id": "wh-cat-3",
+      "name": "REVOLUTIONS",
+      "clues": [
+        { "id": "wh-c3-1", "value": 200, "question": "The year the United States declared independence", "answer": "What is 1776?", "isUsed": false },
+        { "id": "wh-c3-2", "value": 400, "question": "The French Revolution began with the storming of this prison fortress in 1789", "answer": "What is the Bastille?", "isUsed": false },
+        { "id": "wh-c3-3", "value": 600, "question": "Vladimir Lenin led this revolution in Russia in 1917", "answer": "What is the Bolshevik Revolution?", "isUsed": false },
+        { "id": "wh-c3-4", "value": 800, "question": "The 1949 revolution that established the People's Republic of China was led by this man", "answer": "Who is Mao Zedong?", "isUsed": false },
+        { "id": "wh-c3-5", "value": 1000, "question": "The Haitian Revolution of 1791–1804 produced the world's first republic led by this group", "answer": "What are formerly enslaved people?", "isUsed": false }
+      ]
+    },
+    {
+      "id": "wh-cat-4",
+      "name": "WORLD WARS",
+      "clues": [
+        { "id": "wh-c4-1", "value": 200, "question": "The year World War II ended", "answer": "What is 1945?", "isUsed": false },
+        { "id": "wh-c4-2", "value": 400, "question": "The assassination of this archduke sparked World War I", "answer": "Who is Franz Ferdinand?", "isUsed": false },
+        { "id": "wh-c4-3", "value": 600, "question": "The codename for the Allied invasion of Normandy on June 6, 1944", "answer": "What is Operation Overlord (D-Day)?", "isUsed": false },
+        { "id": "wh-c4-4", "value": 800, "question": "This German military strategy of rapid, overwhelming attack was called this in German", "answer": "What is Blitzkrieg?", "isUsed": false },
+        { "id": "wh-c4-5", "value": 1000, "question": "The Manhattan Project produced the atomic bombs dropped on these two Japanese cities", "answer": "What are Hiroshima and Nagasaki?", "isUsed": false }
+      ]
+    },
+    {
+      "id": "wh-cat-5",
+      "name": "FAMOUS FIRSTS",
+      "clues": [
+        { "id": "wh-c5-1", "value": 200, "question": "The first woman to win a Nobel Prize", "answer": "Who is Marie Curie?", "isUsed": false },
+        { "id": "wh-c5-2", "value": 400, "question": "The year the Berlin Wall fell", "answer": "What is 1989?", "isUsed": false },
+        { "id": "wh-c5-3", "value": 600, "question": "Neil Armstrong's famous words upon landing on the Moon in 1969 described this as 'one giant leap for mankind'", "answer": "What is 'one small step for man'?", "isUsed": false },
+        { "id": "wh-c5-4", "value": 800, "question": "The first country to grant women the right to vote, in 1893", "answer": "What is New Zealand?", "isUsed": false },
+        { "id": "wh-c5-5", "value": 1000, "question": "This treaty, signed in 1648, ended the Thirty Years' War and established the concept of national sovereignty", "answer": "What is the Peace of Westphalia?", "isUsed": false }
+      ]
+    }
+  ]
+}

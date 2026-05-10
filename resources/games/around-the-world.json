@@ -1,0 +1,61 @@
+{
+  "id": "game-geography",
+  "title": "Around the World",
+  "categories": [
+    {
+      "id": "geo-cat-1",
+      "name": "CAPITALS",
+      "clues": [
+        { "id": "geo-c1-1", "value": 200, "question": "The capital of France", "answer": "What is Paris?", "isUsed": false },
+        { "id": "geo-c1-2", "value": 400, "question": "The capital of Australia", "answer": "What is Canberra?", "isUsed": false },
+        { "id": "geo-c1-3", "value": 600, "question": "The capital of Brazil", "answer": "What is Brasília?", "isUsed": false },
+        { "id": "geo-c1-4", "value": 800, "question": "This city is the capital of Kazakhstan and was renamed Nur-Sultan in 2019 before reverting to this name", "answer": "What is Astana?", "isUsed": false },
+        { "id": "geo-c1-5", "value": 1000, "question": "The world's southernmost capital city", "answer": "What is Wellington, New Zealand?", "isUsed": false }
+      ]
+    },
+    {
+      "id": "geo-cat-2",
+      "name": "LANDMARKS",
+      "clues": [
+        { "id": "geo-c2-1", "value": 200, "question": "The longest river in the world", "answer": "What is the Nile?", "isUsed": false },
+        { "id": "geo-c2-2", "value": 400, "question": "The smallest country in the world by area", "answer": "What is Vatican City?", "isUsed": false },
+        { "id": "geo-c2-3", "value": 600, "question": "The ancient Incan citadel high in the Andes Mountains of Peru", "answer": "What is Machu Picchu?", "isUsed": false },
+        { "id": "geo-c2-4", "value": 800, "question": "This lake, straddling Bolivia and Peru, is the world's highest navigable lake", "answer": "What is Lake Titicaca?", "isUsed": false },
+        { "id": "geo-c2-5", "value": 1000, "question": "The Mariana Trench, the deepest point on Earth, is located in this ocean", "answer": "What is the Pacific Ocean?", "isUsed": false }
+      ]
+    },
+    {
+      "id": "geo-cat-3",
+      "name": "COUNTRIES",
+      "clues": [
+        { "id": "geo-c3-1", "value": 200, "question": "The country that shares the world's longest land border with Canada", "answer": "What is the United States?", "isUsed": false },
+        { "id": "geo-c3-2", "value": 400, "question": "The most populous country in the world as of 2024", "answer": "What is India?", "isUsed": false },
+        { "id": "geo-c3-3", "value": 600, "question": "The only country that is also a continent", "answer": "What is Australia?", "isUsed": false },
+        { "id": "geo-c3-4", "value": 800, "question": "This landlocked country in Central Asia is the world's largest landlocked country", "answer": "What is Kazakhstan?", "isUsed": false },
+        { "id": "geo-c3-5", "value": 1000, "question": "The island nation located southeast of India in the Indian Ocean", "answer": "What is Sri Lanka?", "isUsed": false }
+      ]
+    },
+    {
+      "id": "geo-cat-4",
+      "name": "CONTINENTS",
+      "clues": [
+        { "id": "geo-c4-1", "value": 200, "question": "The largest continent by area", "answer": "What is Asia?", "isUsed": false },
+        { "id": "geo-c4-2", "value": 400, "question": "The continent with the most countries", "answer": "What is Africa?", "isUsed": false },
+        { "id": "geo-c4-3", "value": 600, "question": "The only continent with no permanent human residents", "answer": "What is Antarctica?", "isUsed": false },
+        { "id": "geo-c4-4", "value": 800, "question": "The continent that contains both the Amazon rainforest and the Atacama Desert", "answer": "What is South America?", "isUsed": false },
+        { "id": "geo-c4-5", "value": 1000, "question": "The smallest continent by area and population", "answer": "What is Australia (Oceania)?", "isUsed": false }
+      ]
+    },
+    {
+      "id": "geo-cat-5",
+      "name": "OCEANS & SEAS",
+      "clues": [
+        { "id": "geo-c5-1", "value": 200, "question": "The largest ocean on Earth", "answer": "What is the Pacific Ocean?", "isUsed": false },
+        { "id": "geo-c5-2", "value": 400, "question": "The sea that borders Israel, Lebanon, and Syria to the west", "answer": "What is the Mediterranean Sea?", "isUsed": false },
+        { "id": "geo-c5-3", "value": 600, "question": "The body of water between Africa and the Arabian Peninsula", "answer": "What is the Red Sea?", "isUsed": false },
+        { "id": "geo-c5-4", "value": 800, "question": "The world's saltiest large body of water is this landlocked sea", "answer": "What is the Dead Sea?", "isUsed": false },
+        { "id": "geo-c5-5", "value": 1000, "question": "This narrow strait separates Europe and Asia at Istanbul", "answer": "What is the Bosphorus?", "isUsed": false }
+      ]
+    }
+  ]
+}

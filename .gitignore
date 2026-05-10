@@ -1,0 +1,33 @@
+node_modules
+dist
+out
+.DS_Store
+.eslintcache
+*.log*
+
+# Environment files
+.env
+.env.*
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Coverage
+coverage/
+.nyc_output/
+
+# Cache
+.cache/
+/.parcel-cache/
+
+# SSL / Keys
+*.pem
+*.key
+*.crt
+
+# Misc
+yarn-error.log
+npm-debug.log*
+.sass-cache/
+.DS_Store

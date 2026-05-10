@@ -1,0 +1,61 @@
+{
+  "id": "game-sports",
+  "title": "Sports & Athletes",
+  "categories": [
+    {
+      "id": "sp-cat-1",
+      "name": "OLYMPICS",
+      "clues": [
+        { "id": "sp-c1-1", "value": 200, "question": "The city where the first modern Olympic Games were held in 1896", "answer": "What is Athens?", "isUsed": false },
+        { "id": "sp-c1-2", "value": 400, "question": "Michael Phelps holds the record for most Olympic gold medals in this sport", "answer": "What is swimming?", "isUsed": false },
+        { "id": "sp-c1-3", "value": 600, "question": "This African country won the most Olympic marathon gold medals in history", "answer": "What is Kenya?", "isUsed": false },
+        { "id": "sp-c1-4", "value": 800, "question": "The Olympic motto, 'Citius, Altius, Fortius' means this in English", "answer": "What is 'Faster, Higher, Stronger'?", "isUsed": false },
+        { "id": "sp-c1-5", "value": 1000, "question": "The host city of the 1936 Summer Olympics, where Jesse Owens won four gold medals", "answer": "What is Berlin?", "isUsed": false }
+      ]
+    },
+    {
+      "id": "sp-cat-2",
+      "name": "FOOTBALL",
+      "clues": [
+        { "id": "sp-c2-1", "value": 200, "question": "The country that has won the most FIFA World Cups", "answer": "What is Brazil?", "isUsed": false },
+        { "id": "sp-c2-2", "value": 400, "question": "This Argentine forward is widely considered the greatest footballer of all time alongside Pelé", "answer": "Who is Lionel Messi?", "isUsed": false },
+        { "id": "sp-c2-3", "value": 600, "question": "The Premier League club known as 'The Red Devils'", "answer": "What is Manchester United?", "isUsed": false },
+        { "id": "sp-c2-4", "value": 800, "question": "The offside rule in football is designed to prevent this type of unfair advantage", "answer": "What is being closer to the goal than the ball and second-to-last defender?", "isUsed": false },
+        { "id": "sp-c2-5", "value": 1000, "question": "The stadium with the highest official capacity in the world, located in North Korea", "answer": "What is the Rungrado 1st of May Stadium?", "isUsed": false }
+      ]
+    },
+    {
+      "id": "sp-cat-3",
+      "name": "BASKETBALL",
+      "clues": [
+        { "id": "sp-c3-1", "value": 200, "question": "Michael Jordan played his entire career with this NBA team before a brief stint with the Wizards", "answer": "What is the Chicago Bulls?", "isUsed": false },
+        { "id": "sp-c3-2", "value": 400, "question": "The number of players on the court per team in an NBA game", "answer": "What is 5?", "isUsed": false },
+        { "id": "sp-c3-3", "value": 600, "question": "This player holds the NBA record for most points scored in a single game with 100", "answer": "Who is Wilt Chamberlain?", "isUsed": false },
+        { "id": "sp-c3-4", "value": 800, "question": "The three-point line was officially introduced to the NBA in this decade", "answer": "What is the 1970s (1979)?", "isUsed": false },
+        { "id": "sp-c3-5", "value": 1000, "question": "LeBron James surpassed this player's all-time NBA scoring record in 2023", "answer": "Who is Kareem Abdul-Jabbar?", "isUsed": false }
+      ]
+    },
+    {
+      "id": "sp-cat-4",
+      "name": "TENNIS",
+      "clues": [
+        { "id": "sp-c4-1", "value": 200, "question": "The only Grand Slam tournament played on clay", "answer": "What is the French Open (Roland Garros)?", "isUsed": false },
+        { "id": "sp-c4-2", "value": 400, "question": "Serena Williams holds the record for most Grand Slam singles titles in the Open Era for women with this many", "answer": "What is 23?", "isUsed": false },
+        { "id": "sp-c4-3", "value": 600, "question": "The tennis term for a score of 40-40 in a game", "answer": "What is deuce?", "isUsed": false },
+        { "id": "sp-c4-4", "value": 800, "question": "This Swiss player held the men's world number one ranking for a record 237 weeks total", "answer": "Who is Roger Federer?", "isUsed": false },
+        { "id": "sp-c4-5", "value": 1000, "question": "The height of the net at the center of a standard tennis court in feet", "answer": "What is 3 feet?", "isUsed": false }
+      ]
+    },
+    {
+      "id": "sp-cat-5",
+      "name": "RECORDS & FEATS",
+      "clues": [
+        { "id": "sp-c5-1", "value": 200, "question": "Usain Bolt set the 100m world record at this time in seconds", "answer": "What is 9.58 seconds?", "isUsed": false },
+        { "id": "sp-c5-2", "value": 400, "question": "The first person to run a mile in under four minutes", "answer": "Who is Roger Bannister?", "isUsed": false },
+        { "id": "sp-c5-3", "value": 600, "question": "The sport in which Eddie 'The Eagle' Edwards became famous for finishing last at the 1988 Olympics", "answer": "What is ski jumping?", "isUsed": false },
+        { "id": "sp-c5-4", "value": 800, "question": "This golfer holds the record for most major championships with 18", "answer": "Who is Jack Nicklaus?", "isUsed": false },
+        { "id": "sp-c5-5", "value": 1000, "question": "The Tour de France cycling race spans approximately this many kilometers total", "answer": "What is 3,300 km?", "isUsed": false }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "sample-001",
+  "title": "Classic Jeopardy",
+  "categories": [
+    {
+      "id": "cat-1",
+      "name": "SCIENCE",
+      "clues": [
+        { "id": "c1-1", "value": 200, "question": "The closest star to Earth", "answer": "What is the Sun?", "isUsed": false },
+        { "id": "c1-2", "value": 400, "question": "This element has the chemical symbol O", "answer": "What is Oxygen?", "isUsed": false },
+        { "id": "c1-3", "value": 600, "question": "The speed of light in a vacuum, approximately 300,000 of these per second", "answer": "What are kilometers?", "isUsed": false },
+        { "id": "c1-4", "value": 800, "question": "This scientist published the theory of general relativity in 1915", "answer": "Who is Albert Einstein?", "isUsed": false },
+        { "id": "c1-5", "value": 1000, "question": "The process by which plants convert sunlight into glucose", "answer": "What is photosynthesis?", "isUsed": false }
+      ]
+    },
+    {
+      "id": "cat-2",
+      "name": "HISTORY",
+      "clues": [
+        { "id": "c2-1", "value": 200, "question": "The year the United States declared independence", "answer": "What is 1776?", "isUsed": false },
+        { "id": "c2-2", "value": 400, "question": "This ancient wonder stood at Alexandria, Egypt", "answer": "What is the Lighthouse of Alexandria?", "isUsed": false },
+        { "id": "c2-3", "value": 600, "question": "The first woman to win a Nobel Prize", "answer": "Who is Marie Curie?", "isUsed": false },
+        { "id": "c2-4", "value": 800, "question": "The empire ruled by Genghis Khan", "answer": "What is the Mongol Empire?", "isUsed": false },
+        { "id": "c2-5", "value": 1000, "question": "The year the Berlin Wall fell", "answer": "What is 1989?", "isUsed": false }
+      ]
+    },
+    {
+      "id": "cat-3",
+      "name": "POP CULTURE",
+      "clues": [
+        { "id": "c3-1", "value": 200, "question": "The boy wizard created by J.K. Rowling", "answer": "Who is Harry Potter?", "isUsed": false },
+        { "id": "c3-2", "value": 400, "question": "This streaming giant produced Stranger Things", "answer": "What is Netflix?", "isUsed": false },
+        { "id": "c3-3", "value": 600, "question": "The planet where Superman was born", "answer": "What is Krypton?", "isUsed": false },
+        { "id": "c3-4", "value": 800, "question": "She sang 'Rolling in the Deep' in 2010", "answer": "Who is Adele?", "isUsed": false },
+        { "id": "c3-5", "value": 1000, "question": "The director of Pulp Fiction and Inglourious Basterds", "answer": "Who is Quentin Tarantino?", "isUsed": false }
+      ]
+    },
+    {
+      "id": "cat-4",
+      "name": "GEOGRAPHY",
+      "clues": [
+        { "id": "c4-1", "value": 200, "question": "The capital of France", "answer": "What is Paris?", "isUsed": false },
+        { "id": "c4-2", "value": 400, "question": "The longest river in the world", "answer": "What is the Nile?", "isUsed": false },
+        { "id": "c4-3", "value": 600, "question": "The country that shares the world's longest land border with Canada", "answer": "What is the United States?", "isUsed": false },
+        { "id": "c4-4", "value": 800, "question": "The smallest country in the world by area", "answer": "What is Vatican City?", "isUsed": false },
+        { "id": "c4-5", "value": 1000, "question": "The island nation located southeast of India in the Indian Ocean", "answer": "What is Sri Lanka?", "isUsed": false }
+      ]
+    },
+    {
+      "id": "cat-5",
+      "name": "FOOD & DRINK",
+      "clues": [
+        { "id": "c5-1", "value": 200, "question": "This yellow fruit is the primary ingredient in guacamole", "answer": "What is an avocado?", "isUsed": false },
+        { "id": "c5-2", "value": 400, "question": "The country of origin for sushi", "answer": "What is Japan?", "isUsed": false },
+        { "id": "c5-3", "value": 600, "question": "This spice, derived from crocus flowers, is the world's most expensive by weight", "answer": "What is saffron?", "isUsed": false },
+        { "id": "c5-4", "value": 800, "question": "A traditional Italian cheese used on pizza, made from buffalo milk", "answer": "What is mozzarella?", "isUsed": false },
+        { "id": "c5-5", "value": 1000, "question": "The French technique of slowly cooking food in fat at low temperature", "answer": "What is confit?", "isUsed": false }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "game-pop-culture",
+  "title": "Pop Culture",
+  "categories": [
+    {
+      "id": "pc-cat-1",
+      "name": "MOVIES",
+      "clues": [
+        { "id": "pc-c1-1", "value": 200, "question": "The director of Pulp Fiction and Inglourious Basterds", "answer": "Who is Quentin Tarantino?", "isUsed": false },
+        { "id": "pc-c1-2", "value": 400, "question": "This 1994 film tells the story of a man with a low IQ who witnesses major historical events", "answer": "What is Forrest Gump?", "isUsed": false },
+        { "id": "pc-c1-3", "value": 600, "question": "The highest-grossing film of all time (not adjusted for inflation) as of 2024", "answer": "What is Avatar?", "isUsed": false },
+        { "id": "pc-c1-4", "value": 800, "question": "Christopher Nolan's 2010 film about a thief who enters people's dreams", "answer": "What is Inception?", "isUsed": false },
+        { "id": "pc-c1-5", "value": 1000, "question": "This 1927 German expressionist film is considered the first science fiction feature film", "answer": "What is Metropolis?", "isUsed": false }
+      ]
+    },
+    {
+      "id": "pc-cat-2",
+      "name": "MUSIC",
+      "clues": [
+        { "id": "pc-c2-1", "value": 200, "question": "She sang 'Rolling in the Deep' in 2010", "answer": "Who is Adele?", "isUsed": false },
+        { "id": "pc-c2-2", "value": 400, "question": "The Beatles were from this English city", "answer": "What is Liverpool?", "isUsed": false },
+        { "id": "pc-c2-3", "value": 600, "question": "Michael Jackson's 1982 album, the best-selling album of all time", "answer": "What is Thriller?", "isUsed": false },
+        { "id": "pc-c2-4", "value": 800, "question": "This rapper's 2018 album 'DAMN.' was the first hip-hop record to win the Pulitzer Prize", "answer": "Who is Kendrick Lamar?", "isUsed": false },
+        { "id": "pc-c2-5", "value": 1000, "question": "The 1985 charity supergroup hit 'We Are the World' was produced by this musician", "answer": "Who is Quincy Jones?", "isUsed": false }
+      ]
+    },
+    {
+      "id": "pc-cat-3",
+      "name": "TV SHOWS",
+      "clues": [
+        { "id": "pc-c3-1", "value": 200, "question": "This streaming giant produced Stranger Things", "answer": "What is Netflix?", "isUsed": false },
+        { "id": "pc-c3-2", "value": 400, "question": "The HBO series where dragons and political intrigue collide in Westeros", "answer": "What is Game of Thrones?", "isUsed": false },
+        { "id": "pc-c3-3", "value": 600, "question": "This sitcom ran for 10 seasons and followed six friends living in New York City", "answer": "What is Friends?", "isUsed": false },
+        { "id": "pc-c3-4", "value": 800, "question": "Breaking Bad's protagonist Walter White taught this subject before becoming a drug lord", "answer": "What is Chemistry?", "isUsed": false },
+        { "id": "pc-c3-5", "value": 1000, "question": "The Sopranos creator, whose death in 2013 left the show's finale famously ambiguous", "answer": "Who is David Chase?", "isUsed": false }
+      ]
+    },
+    {
+      "id": "pc-cat-4",
+      "name": "BOOKS & COMICS",
+      "clues": [
+        { "id": "pc-c4-1", "value": 200, "question": "The boy wizard created by J.K. Rowling", "answer": "Who is Harry Potter?", "isUsed": false },
+        { "id": "pc-c4-2", "value": 400, "question": "The planet where Superman was born", "answer": "What is Krypton?", "isUsed": false },
+        { "id": "pc-c4-3", "value": 600, "question": "George Orwell's 1949 dystopian novel about Big Brother", "answer": "What is 1984?", "isUsed": false },
+        { "id": "pc-c4-4", "value": 800, "question": "The fictional country of Wakanda is home to this Marvel superhero", "answer": "Who is Black Panther?", "isUsed": false },
+        { "id": "pc-c4-5", "value": 1000, "question": "This Russian author wrote War and Peace and Anna Karenina", "answer": "Who is Leo Tolstoy?", "isUsed": false }
+      ]
+    },
+    {
+      "id": "pc-cat-5",
+      "name": "VIDEO GAMES",
+      "clues": [
+        { "id": "pc-c5-1", "value": 200, "question": "Mario's princess that he's always rescuing in Nintendo games", "answer": "Who is Princess Peach?", "isUsed": false },
+        { "id": "pc-c5-2", "value": 400, "question": "The open-world game series set in Liberty City, Vice City, and San Andreas", "answer": "What is Grand Theft Auto (GTA)?", "isUsed": false },
+        { "id": "pc-c5-3", "value": 600, "question": "This battle royale game had 100 players drop onto an island and became a cultural phenomenon in 2018", "answer": "What is Fortnite?", "isUsed": false },
+        { "id": "pc-c5-4", "value": 800, "question": "The protagonist of The Legend of Zelda series, a green-tunic-wearing hero", "answer": "Who is Link?", "isUsed": false },
+        { "id": "pc-c5-5", "value": 1000, "question": "The 2013 indie game where a child falls underground into the monster world, known for its pacifist route", "answer": "What is Undertale?", "isUsed": false }
+      ]
+    }
+  ]
+}

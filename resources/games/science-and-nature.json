@@ -1,0 +1,61 @@
+{
+  "id": "game-science",
+  "title": "Science & Nature",
+  "categories": [
+    {
+      "id": "sn-cat-1",
+      "name": "THE UNIVERSE",
+      "clues": [
+        { "id": "sn-c1-1", "value": 200, "question": "The closest star to Earth", "answer": "What is the Sun?", "isUsed": false },
+        { "id": "sn-c1-2", "value": 400, "question": "The planet known for its prominent ring system", "answer": "What is Saturn?", "isUsed": false },
+        { "id": "sn-c1-3", "value": 600, "question": "A region of space where gravity is so strong that nothing, not even light, can escape", "answer": "What is a black hole?", "isUsed": false },
+        { "id": "sn-c1-4", "value": 800, "question": "The largest moon of Saturn, known for its thick atmosphere and lakes of liquid methane", "answer": "What is Titan?", "isUsed": false },
+        { "id": "sn-c1-5", "value": 1000, "question": "The name of the theoretical boundary around a black hole beyond which nothing can return", "answer": "What is the event horizon?", "isUsed": false }
+      ]
+    },
+    {
+      "id": "sn-cat-2",
+      "name": "CHEMISTRY",
+      "clues": [
+        { "id": "sn-c2-1", "value": 200, "question": "This element has the chemical symbol O", "answer": "What is Oxygen?", "isUsed": false },
+        { "id": "sn-c2-2", "value": 400, "question": "The number of protons in a carbon atom", "answer": "What is 6?", "isUsed": false },
+        { "id": "sn-c2-3", "value": 600, "question": "The process by which a liquid becomes a gas at its boiling point", "answer": "What is vaporization?", "isUsed": false },
+        { "id": "sn-c2-4", "value": 800, "question": "This noble gas is used in bright signs and has atomic number 10", "answer": "What is Neon?", "isUsed": false },
+        { "id": "sn-c2-5", "value": 1000, "question": "The pH level of a neutral solution at 25°C", "answer": "What is 7?", "isUsed": false }
+      ]
+    },
+    {
+      "id": "sn-cat-3",
+      "name": "BIOLOGY",
+      "clues": [
+        { "id": "sn-c3-1", "value": 200, "question": "The process by which plants convert sunlight into glucose", "answer": "What is photosynthesis?", "isUsed": false },
+        { "id": "sn-c3-2", "value": 400, "question": "The powerhouse of the cell", "answer": "What is the mitochondria?", "isUsed": false },
+        { "id": "sn-c3-3", "value": 600, "question": "The molecule that carries genetic information in all living organisms", "answer": "What is DNA?", "isUsed": false },
+        { "id": "sn-c3-4", "value": 800, "question": "The scientific study of fungi", "answer": "What is mycology?", "isUsed": false },
+        { "id": "sn-c3-5", "value": 1000, "question": "The type of symbiosis where both organisms benefit from the relationship", "answer": "What is mutualism?", "isUsed": false }
+      ]
+    },
+    {
+      "id": "sn-cat-4",
+      "name": "PHYSICS",
+      "clues": [
+        { "id": "sn-c4-1", "value": 200, "question": "The speed of light in a vacuum, approximately 300,000 km per second", "answer": "What is c?", "isUsed": false },
+        { "id": "sn-c4-2", "value": 400, "question": "Isaac Newton's first law of motion is also called this", "answer": "What is the law of inertia?", "isUsed": false },
+        { "id": "sn-c4-3", "value": 600, "question": "The unit of electrical resistance", "answer": "What is the Ohm?", "isUsed": false },
+        { "id": "sn-c4-4", "value": 800, "question": "This physicist developed the theory of general relativity in 1915", "answer": "Who is Albert Einstein?", "isUsed": false },
+        { "id": "sn-c4-5", "value": 1000, "question": "The phenomenon where a quantum particle can exist in multiple states simultaneously until observed", "answer": "What is superposition?", "isUsed": false }
+      ]
+    },
+    {
+      "id": "sn-cat-5",
+      "name": "ANIMALS",
+      "clues": [
+        { "id": "sn-c5-1", "value": 200, "question": "The fastest land animal on Earth", "answer": "What is the cheetah?", "isUsed": false },
+        { "id": "sn-c5-2", "value": 400, "question": "This marine mammal is the largest animal ever known to have lived", "answer": "What is the blue whale?", "isUsed": false },
+        { "id": "sn-c5-3", "value": 600, "question": "The only mammal capable of true sustained flight", "answer": "What is a bat?", "isUsed": false },
+        { "id": "sn-c5-4", "value": 800, "question": "This bird has the longest migration of any animal, traveling pole to pole annually", "answer": "What is the Arctic tern?", "isUsed": false },
+        { "id": "sn-c5-5", "value": 1000, "question": "The venomous platypus delivers this through spurs on its hind legs", "answer": "What is venom (from crural spurs)?", "isUsed": false }
+      ]
+    }
+  ]
+}

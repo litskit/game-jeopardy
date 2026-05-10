@@ -1,0 +1,61 @@
+{
+  "id": "game-food",
+  "title": "Food & Drink",
+  "categories": [
+    {
+      "id": "fd-cat-1",
+      "name": "CUISINES",
+      "clues": [
+        { "id": "fd-c1-1", "value": 200, "question": "The country of origin for sushi", "answer": "What is Japan?", "isUsed": false },
+        { "id": "fd-c1-2", "value": 400, "question": "Paella is a traditional dish from this European country", "answer": "What is Spain?", "isUsed": false },
+        { "id": "fd-c1-3", "value": 600, "question": "Pho is a traditional soup from this Southeast Asian country", "answer": "What is Vietnam?", "isUsed": false },
+        { "id": "fd-c1-4", "value": 800, "question": "This Lebanese dish of ground chickpeas and tahini is eaten around the world as a dip", "answer": "What is hummus?", "isUsed": false },
+        { "id": "fd-c1-5", "value": 1000, "question": "The French technique of slowly cooking food submerged in fat at low temperature", "answer": "What is confit?", "isUsed": false }
+      ]
+    },
+    {
+      "id": "fd-cat-2",
+      "name": "INGREDIENTS",
+      "clues": [
+        { "id": "fd-c2-1", "value": 200, "question": "This yellow fruit is the primary ingredient in guacamole", "answer": "What is an avocado?", "isUsed": false },
+        { "id": "fd-c2-2", "value": 400, "question": "This spice, derived from crocus flowers, is the world's most expensive by weight", "answer": "What is saffron?", "isUsed": false },
+        { "id": "fd-c2-3", "value": 600, "question": "Mole negro, a sauce with over 30 ingredients, always includes a small amount of this sweet ingredient", "answer": "What is chocolate?", "isUsed": false },
+        { "id": "fd-c2-4", "value": 800, "question": "Traditional balsamic vinegar from Modena, Italy, is aged a minimum of this many years", "answer": "What is 12 years?", "isUsed": false },
+        { "id": "fd-c2-5", "value": 1000, "question": "This Japanese seasoning is made from fermented soybeans, salt, and a mold called koji", "answer": "What is miso?", "isUsed": false }
+      ]
+    },
+    {
+      "id": "fd-cat-3",
+      "name": "CHEESE & DAIRY",
+      "clues": [
+        { "id": "fd-c3-1", "value": 200, "question": "A traditional Italian cheese used on pizza, made from buffalo milk", "answer": "What is mozzarella?", "isUsed": false },
+        { "id": "fd-c3-2", "value": 400, "question": "This blue-veined French cheese is made from sheep's milk and aged in caves", "answer": "What is Roquefort?", "isUsed": false },
+        { "id": "fd-c3-3", "value": 600, "question": "The country that produces the most varieties of cheese in the world", "answer": "What is France?", "isUsed": false },
+        { "id": "fd-c3-4", "value": 800, "question": "This Swiss cheese is known for its large holes, which form during aging due to CO2 from bacteria", "answer": "What is Emmental?", "isUsed": false },
+        { "id": "fd-c3-5", "value": 1000, "question": "Halloumi cheese is a protected designation of origin product from this Mediterranean island", "answer": "What is Cyprus?", "isUsed": false }
+      ]
+    },
+    {
+      "id": "fd-cat-4",
+      "name": "BEVERAGES",
+      "clues": [
+        { "id": "fd-c4-1", "value": 200, "question": "The country that drinks the most coffee per capita in the world", "answer": "What is Finland?", "isUsed": false },
+        { "id": "fd-c4-2", "value": 400, "question": "Champagne can only legally be called Champagne if it comes from this region of France", "answer": "What is Champagne?", "isUsed": false },
+        { "id": "fd-c4-3", "value": 600, "question": "This Japanese rice wine is often served warm and is also known as nihonshu", "answer": "What is sake?", "isUsed": false },
+        { "id": "fd-c4-4", "value": 800, "question": "The primary grain used to make bourbon whiskey", "answer": "What is corn?", "isUsed": false },
+        { "id": "fd-c4-5", "value": 1000, "question": "Cold brew coffee is steeped in cold water for this minimum number of hours", "answer": "What is 12 hours?", "isUsed": false }
+      ]
+    },
+    {
+      "id": "fd-cat-5",
+      "name": "DESSERTS",
+      "clues": [
+        { "id": "fd-c5-1", "value": 200, "question": "This Italian dessert translates to 'pick me up' and is made with espresso and mascarpone", "answer": "What is tiramisu?", "isUsed": false },
+        { "id": "fd-c5-2", "value": 400, "question": "The French pastry that consists of choux dough filled with cream and topped with icing", "answer": "What is an éclair?", "isUsed": false },
+        { "id": "fd-c5-3", "value": 600, "question": "This Japanese dessert is a soft rice cake filled with sweet paste, often ice cream", "answer": "What is mochi?", "isUsed": false },
+        { "id": "fd-c5-4", "value": 800, "question": "Crème brûlée's signature feature is this technique applied to the sugar topping", "answer": "What is caramelizing (with a torch)?", "isUsed": false },
+        { "id": "fd-c5-5", "value": 1000, "question": "The traditional Viennese pastry of paper-thin dough wrapped around an apple filling", "answer": "What is Apfelstrudel?", "isUsed": false }
+      ]
+    }
+  ]
+}
